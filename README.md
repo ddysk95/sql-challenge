@@ -29,5 +29,5 @@
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 ## As a Bonus analysis, two charts were created by importing the SQL database using Pandas to explore the validity of the data. 
-1. A hisogram to visualize the most common salary range for employees
+1. A histogram to visualize the most common salary range for employees
 2. A bar chart of average salary by title 
